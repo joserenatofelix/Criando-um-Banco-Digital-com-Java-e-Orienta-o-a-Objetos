@@ -7,8 +7,8 @@ import java.util.Date;
  * Uma instituição possui CNPJ único. <p><br />
  * Uma instituição ela é regulamentada pelo Governo Federal. <p><br />
  * 
- * @author Alex Rogério
- * @since 17/08/2021
+ * @author Renato Felix
+ * @since 13/08/2024
  * @version 1.0
  * @see <a href="https://pt.wikipedia.org/wiki/Brasil">Site do Brasil</>
  */

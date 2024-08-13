@@ -14,10 +14,10 @@ import br.esig.com.nujava.negocio.ValidacaoHelper;
 
 /** Esta é a entidade que gerencia uma conta digital.
  * 
- * @author Alex Rogério
- * @since 17/08/2021
+ * @author Renato Felix
+ * @since 13/08/2024
  * @version 1.0
- */
+  */
 public class BancoDigital {
 
 	public static void main(String[] args) {

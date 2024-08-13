@@ -7,10 +7,10 @@ import java.util.Date;
  * Uma pessoa possui CPF único. <p><br />
  * Uma pessoa também faz um relacionamento com {@link Genero}. <p><br />
  * 
- * @author Alex Rogério
- * @since 17/08/2021
+ * @author Renato Felix
+ * @since 13/08/2024
  * @version 1.0
- */
+  */
 public class Pessoa {
 	private String nome;
 	

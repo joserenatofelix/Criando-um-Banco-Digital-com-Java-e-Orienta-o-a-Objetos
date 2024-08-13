@@ -13,10 +13,10 @@ import java.util.TimeZone;
  * Data de validade do cartão <p><br />
  * Código de segurança de 3 dígitos <p><br />
  * 
- * @author Alex Rogério
- * @since 17/08/2021
+ * @author Renato Felix
+ * @since 13/08/2024
  * @version 1.0
- */
+  */
 public class CartaoCredito {
 	
 	private Integer numeroCartao;

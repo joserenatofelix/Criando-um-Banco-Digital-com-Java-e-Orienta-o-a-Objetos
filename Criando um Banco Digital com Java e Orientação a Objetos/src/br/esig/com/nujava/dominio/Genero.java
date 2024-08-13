@@ -4,8 +4,8 @@ package br.esig.com.nujava.dominio;
  * 
  * Uma pessoa somente pode possuir único gênero. <p><br />
  * 
- * @author Alex Rogério
- * @since 17/08/2021
+ * @author Renato Felix
+ * @since 13/08/2024
  * @version 1.0
   */
 public class Genero {

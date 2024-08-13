@@ -8,10 +8,10 @@ import br.esig.com.nujava.dominio.Conta;
  * 
  * Uma operação deve ser saque, depósito e transferência <p><br />
  * 
- * @author Alex Rogério
- * @since 17/08/2021
+ * @author Renato Felix
+ * @since 13/08/2024
  * @version 1.0
- */
+  */
 public interface Operacoes {
 	
 	/** Esta função é responsável por sacar dinheiro de uma conta.
